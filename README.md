@@ -29,7 +29,7 @@ flutter run
 ```
 Alternatively you can open the app as a new flutter project in Android Studio after installing the Flutter plugin. 
 
-## TODO - please make a PR if you fix any of these
+## TODO 
 
 - Spare parts sellers affiliate system to be integrated
 - Firebase is integrated, but it still needs to be properly wired up to the login and signup pages.
