@@ -31,11 +31,10 @@ Alternatively you can open the app as a new flutter project in Android Studio af
 
 ## TODO - please make a PR if you fix any of these
 
-- Car spare parts sellers affiliate system to be integrated
+- Spare parts sellers affiliate system to be integrated
 - Firebase is integrated, but it still needs to be properly wired up to the login and signup pages.
 - Stripe and RazorPay are integrated, but each still need to be wired up to the Credit/Debit Card view i created.
 - MPESA payment to be integrated 
-- Generate some text everytime a pose is detected, not just on startup.
 
 
 
