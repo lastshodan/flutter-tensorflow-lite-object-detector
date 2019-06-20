@@ -3,8 +3,7 @@
 
 ## Overview
 
-This mobile app is used to detect car spare parts images using the phone's camera.This code is unfinished.--part of the code is private(meant to be commercialized)
-
+Mobile app used to detect car spare parts images using phone's camera.This code is unfinished.
 ## Dependencies
 
 All of these can be downloaded in a single command, see below. 
